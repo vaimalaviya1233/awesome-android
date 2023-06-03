@@ -4,10 +4,6 @@ A curated list of awesome open source Android applications, tutorials and resour
 
 [<img src="logo.png">](https://github.com/LinuxCafeFederation/awesome-android)
 
-## Support the maintainer of this list
-- CashApp: $CipherOps
-- Amazon Wishlist: https://amazon.com/hz/wishlist/ls/1GD5YOV16E0G0
-
 ## Contents
 
 - [Advertisement blocking](#advertisement-blocking)
